@@ -292,6 +292,6 @@ Handling dynamic memory allocation in a large program
 Pair programming and team work
 Building a test suite to check our own code
 
-AURTHORS
+AUTHORS:
 Faruk Obasanjo Adekola
 Fuhad Ololade Yusuf
